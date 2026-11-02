@@ -1,0 +1,4 @@
+Model,Training Accuracy,Testing Accuracy
+Logistic Regression,81.26,80.49
+Random Forest,100.0,80.49
+Decision Tree,100.0,78.05
